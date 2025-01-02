@@ -5,6 +5,7 @@ The guide using these scripts are explained on the following WoT Reddit post: ht
 
 # Something important
 [This](https://github.com/PPPurple23/WoT_Crew_Batchers/blob/main/Z_WoT%20Crew%20Name%20Batcher.ahk) version is for users who have installed 'gettext-iconv'.
-(If you have not installed gettext on the default dir, you have to edit the first parameter of the function placed on line #32.)
+
+(If you have not installed gettext on the default dir, you must edit the first parameter of the function placed on line #32.)
 
 If you don't have it installed or don't know how to setup it, try the [older](https://github.com/PPPurple23/WoT_Crew_Batchers/blob/main/0.1(ig)/WoT%20Crew%20Name%20Batcher.ahk) version.
